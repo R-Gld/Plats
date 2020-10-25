@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+.idea/*
+Plats.iml
+src/test/
